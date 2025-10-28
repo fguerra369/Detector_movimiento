@@ -6,19 +6,6 @@ Este proyecto permite detectar **movimiento** usando la cámara de tu computador
 Ideal para aprendizaje de **visión por computadora**, sistemas de **monitoreo** o **proyectos de seguridad**.  
 
 ---
-🗂 Estructura del proyecto
-
-detector-movimiento/
-
-├─ detector_movimiento.py # Script principal
-
-├─ README.md # Este archivo
-
-├─ .gitignore # Archivos que Git ignora
-
-└─ assets/ 
-
----
 🛠 Requisitos
 
 - **Python 3.x** (recomendado 3.9 o superior)  
