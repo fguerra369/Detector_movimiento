@@ -10,8 +10,11 @@ Ideal para aprendizaje de **visión por computadora**, sistemas de **monitoreo**
 
 detector-movimiento/
 ├─ detector_movimiento.py # Script principal
+
 ├─ README.md # Este archivo
+
 ├─ .gitignore # Archivos que Git ignora
+
 └─ assets/ # Opcional: imágenes o videos de prueba
 ---
 🛠 Requisitos
